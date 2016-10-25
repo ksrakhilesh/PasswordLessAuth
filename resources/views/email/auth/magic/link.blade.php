@@ -1,0 +1,1 @@
+Your Magic Link Is: <a href="{{$link}}"> {{$link}}</a>
